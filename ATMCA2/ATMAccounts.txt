@@ -1,0 +1,3 @@
+123;123;23694.0;Savings;John
+1234;1234;3.4351157259264E13;MoneyMarket;Mary
+12345;12345;380.0;Current;Tim

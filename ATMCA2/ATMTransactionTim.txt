@@ -1,0 +1,4 @@
+S/N TRANSACTION  BALANCE AMOUNT
+1	Deposited	21	401.0
+2. Withdrawed  1 $400.0
+3. Withdrawed  400 $0.0
