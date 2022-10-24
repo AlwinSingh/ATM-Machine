@@ -1,4 +1,4 @@
-# JavaATM-Machine
+# ATM-Machine built using Java
 
 ![ScreenShot](Calculator%232.PNG)\
 ![ScreenShot](Calculator%233.PNG)\
